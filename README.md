@@ -3,6 +3,10 @@ Often in deep learning applications, one has video dataset and requires individu
 
 PS: I didn't find any commonly available library or opencv function which does this.
 
+## Dependencies
+1. opencv2
+2. python3 (my system had python3 but ideally, should work with python2 as well)
+
 ## Setup
 Simply run the fetch-frame.py script with the following changes:
 1. Line 15 (VIDEO_PATH) - Change the input video path
