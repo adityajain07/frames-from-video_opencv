@@ -1,5 +1,7 @@
 # frames-from-video_opencv
-Often in deep learning applications, one has video dataset and requires individual images to be fetched from it. This repository contains a short code for fetching frames from a video using opencv, given a desired frame rate.
+Often in deep learning applications, one has video dataset and requires individual images to be fetched from it. This repository contains a short code for fetching frames from a video using opencv, given a desired frame rate. 
+
+PS: I didn't find any commonly available library or opencv function which does this.
 
 ## Setup
 Simply run the fetch-frame.py script with the following changes:
